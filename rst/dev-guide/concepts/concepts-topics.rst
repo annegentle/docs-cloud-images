@@ -174,7 +174,7 @@ appears in the consumer's image list. As long as the consumer is an
 member of the image, the consumer can use the image, regardless of the
 image member status.
 
-.. figure:: ../_images/image-member.png
+.. figure:: /_images/image-member.png
 
    Figure: Sharing an image
 

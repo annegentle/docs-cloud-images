@@ -16,8 +16,8 @@ Developers use the operations described in this chapter to perform the following
 - Get information about image schemas
 
 
-.. include:: api-operations/image-2.0/images-operations.rst
-.. include:: api-operations/image-2.0/image-sharing-operations.rst
+.. include:: image-2.0/images-operations.rst
+.. include:: image-2.0/image-sharing-operations.rst
 
 
 .. toctree::

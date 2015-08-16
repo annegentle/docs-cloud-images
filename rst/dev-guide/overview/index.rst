@@ -3,9 +3,9 @@
 Overview
 --------
 
-.. include:: overview/intended-audience.rst
-.. include:: overview/additional-resources.rst
-.. include:: overview/pricing-service-level.rst
+.. include:: intended-audience.rst
+.. include:: additional-resources.rst
+.. include:: pricing-service-level.rst
 
 .. toctree::
    :hidden:
